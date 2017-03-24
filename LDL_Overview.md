@@ -26,7 +26,7 @@ The LDL is governed by the Louisiana Digital Consortium. The LDL Steering Commit
 
 The Louisiana Digital Consortium (LDC) is a partnership of participating Louisiana libraries, museums, archives and cultural heritage institutions. The purpose of the LDC is to be the Louisiana entity under which a variety of digital initiatives and services and cooperative programs are developed and or sponsored. The LDC provides governance and leadership to ensure the effective operation, orderly growth and fiscal sustainability of the Louisiana Digital Library and other cooperative programs. 
 
-There are currently 22 participating libraries, archives, museums, and historical centers participating in the LDL. Each institution contributes the digital items and the descriptive text for their collections. You will find that some of the collections, such as the GUMBO Project and the Teaching History in Louisiana Project, are collaborative projects that include materials from many institutions. 
+There are currently 22 participating libraries, archives, museums, and historical centers participating in the LDL. Each institution contributes the digital items and the descriptive text for their collections. You will find that some of the collections, such as the Teaching History in Louisiana Project, are collaborative projects that include materials from many institutions. 
 
 #### Executive Board
 
