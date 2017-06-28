@@ -9,8 +9,8 @@ User accounts are tied to roles. Roles in the LDL consist of:
 * Administrator
 * Collection administrator
 * Intern
-* Repository administrator
-* Site administrator
+* Repository administrator (not used)
+* Site administrator (not used)
 * Xquery
 
 *check with Dave and Jason about the differences here. It's not apparent all the existing roles are intended to be used.*
