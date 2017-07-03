@@ -121,7 +121,7 @@
 <node CREATED="1499096121379" ID="ID_904681138" MODIFIED="1499096121379" TEXT="User dashboard (if it exists)"/>
 <node CREATED="1499096121379" ID="ID_1584265750" MODIFIED="1499096121379" TEXT="Exercise - login &amp; explore dashboard"/>
 </node>
-<node CREATED="1499096121379" FOLDED="true" ID="ID_1369428628" MODIFIED="1499097782613" TEXT="Searching in Islandora">
+<node CREATED="1499096121379" ID="ID_1369428628" MODIFIED="1499112612486" TEXT="Searching in Islandora">
 <node CREATED="1499096121380" ID="ID_71349870" MODIFIED="1499096121380" TEXT="Global"/>
 <node CREATED="1499096121380" ID="ID_1667109983" MODIFIED="1499096121380" TEXT="Institutional"/>
 <node CREATED="1499096121381" ID="ID_1484982076" MODIFIED="1499096121381" TEXT="Collection"/>
@@ -260,7 +260,7 @@
 <node CREATED="1499096121468" ID="ID_820885975" MODIFIED="1499096121468" TEXT="Planned rollout of increasing responsibilities?"/>
 </node>
 </node>
-<node CREATED="1499096121469" FOLDED="true" ID="ID_1944807045" MODIFIED="1499111840168" POSITION="right" TEXT="Part 4 - Help &amp; Support">
+<node CREATED="1499096121469" FOLDED="true" ID="ID_1944807045" MODIFIED="1499112481593" POSITION="right" TEXT="Part 4 - Help &amp; Support">
 <node CREATED="1499096121470" ID="ID_205179472" MODIFIED="1499096121470" TEXT="Where to find documentation"/>
 <node CREATED="1499096121470" ID="ID_1724942677" MODIFIED="1499096121470" TEXT="New ticketing system (in development)">
 <node CREATED="1499096121471" ID="ID_152603257" MODIFIED="1499096121471" TEXT="How to join the issue reporting board, if interested?"/>
@@ -272,7 +272,7 @@
 <node CREATED="1499096121472" ID="ID_38320922" MODIFIED="1499096121472" TEXT="Open Q&amp;A"/>
 <node CREATED="1499096121473" ID="ID_596475532" MODIFIED="1499096121473" TEXT="Open request for specific additional training"/>
 </node>
-<node CREATED="1499096121473" FOLDED="true" ID="ID_75087207" MODIFIED="1499111247066" POSITION="left" TEXT="We need to prep">
+<node CREATED="1499096121473" ID="ID_75087207" MODIFIED="1499112696143" POSITION="left" TEXT="We need to prep">
 <node CREATED="1499096121474" ID="ID_1978750421" MODIFIED="1499096121474" TEXT="Make sure everyone signed up for the training has an account in the training instance with same password - &#x201c;test&#x201d; or the training date would work"/>
 <node CREATED="1499096121477" ID="ID_1444750190" MODIFIED="1499096121477" TEXT="Make a &#x2018;generic&#x2019; user for the training instance, in case anyone has trouble with their accounts"/>
 <node CREATED="1499096121478" ID="ID_1092586296" MODIFIED="1499096121478" TEXT="Things that need to be included in the training instance:">
@@ -296,9 +296,12 @@
 <node CREATED="1499096121494" ID="ID_1655576844" MODIFIED="1499096121494" TEXT="What are the collection development policies? (Gina&#x2026;)"/>
 <node CREATED="1499096121528" ID="ID_309791517" MODIFIED="1499096121528" TEXT="Printouts, cheat sheets"/>
 <node CREATED="1499096121529" ID="ID_24522618" MODIFIED="1499096121529" TEXT="Write &amp; test all exercises"/>
+<node CREATED="1499112696557" ID="ID_175370175" MODIFIED="1499112750312" TEXT="Select collections for test instance that showcase different Content Models"/>
 </node>
-<node CREATED="1499096121529" FOLDED="true" ID="ID_1862298917" MODIFIED="1499111248551" POSITION="left" TEXT="&#x201c;We&#x201d; need to finish">
-<node CREATED="1499096121530" ID="ID_1962797553" MODIFIED="1499096121530" TEXT="Theme 2.0? - If this will be present at training time, that affects screenshots&#x2026;"/>
+<node CREATED="1499096121529" ID="ID_1862298917" MODIFIED="1499112640525" POSITION="left" TEXT="&#x201c;We&#x201d; need to finish">
+<node CREATED="1499096121530" ID="ID_1962797553" MODIFIED="1499096121530" TEXT="Theme 2.0? - If this will be present at training time, that affects screenshots&#x2026;">
+<node CREATED="1499112649967" ID="ID_314075680" MODIFIED="1499112672552" TEXT="Make sure compound display is functional"/>
+</node>
 <node CREATED="1499096121530" ID="ID_1038347791" MODIFIED="1499096121530" TEXT="User dashboard"/>
 <node CREATED="1499096121530" ID="ID_921473035" MODIFIED="1499096121530" TEXT="Examine user roles by type"/>
 <node CREATED="1499096121531" ID="ID_309272841" MODIFIED="1499096121531" TEXT="Namespace assistance module (get into production)"/>
