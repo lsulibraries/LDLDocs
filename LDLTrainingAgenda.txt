@@ -1,0 +1,39 @@
+LDL Training - July 2017
+    Part 1 - Islandora Basics
+        LDL Overview - History and Governance
+        What is Islandora?
+        Key concepts:
+            Collections, Objects, Datastreams, Compound objects
+            Content Models
+            MODS descriptive metadata
+            Namespaces and PIDs (Persistent Identifiers)
+            Collection administrators
+        Content
+            ETL / Migration process
+        Architecture
+        Navigation
+        Searching in Islandora
+    Part 2 - Collection Administration
+        Creating a new collection
+        Creating a new object 
+        Editing object metadata - single item
+        Batch upload a collection
+        Uploading multiple content types to a collection
+        Editing object metadata - batch process(es)
+        Deleting a collection
+        Deleting an object
+        Compound Objects
+        Creating collection metadata in a spreadsheet
+        LDL Metadata Guidelines
+    Part 3 - Management & Policies
+        Collection Administrator responsibilities
+        LDL collection development policies
+        File types & size restrictions
+        Access controls (publish/unpublish; IP embargo)
+        Statistics/Reporting
+    Part 4 - Help & Support
+        Documentation
+        Support request
+        LSU LDL Development Team contact info
+        Open Q&A
+        Open request for specific additional training

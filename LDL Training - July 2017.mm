@@ -1,9 +1,11 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1499096066977" ID="ID_860117607" MODIFIED="1499096119329" TEXT="LDL Training - July 2017">
+<node CREATED="1499096066977" ID="ID_860117607" MODIFIED="1499347364000" TEXT="LDL Training - July 2017">
 <node CREATED="1499096092172" ID="ID_788063153" MODIFIED="1499096100083" POSITION="left" TEXT="time estimates"/>
 <node CREATED="1499096121357" ID="ID_1108749504" MODIFIED="1499111460292" POSITION="right" TEXT="Part 1 - Islandora Basics">
-<node CREATED="1499097883953" ID="ID_578194407" MODIFIED="1499097891945" TEXT="What is the LDL">
+<node CREATED="1499097883953" FOLDED="true" ID="ID_578194407" MODIFIED="1499796344379" TEXT="What is the LDL">
+<node CREATED="1499259677699" ID="ID_825657282" MODIFIED="1499259687101" TEXT="Overview"/>
+<node CREATED="1499260547921" ID="ID_1972345192" MODIFIED="1499260562344" TEXT="Participating Institutions"/>
 <node CREATED="1499097893734" ID="ID_1023955353" MODIFIED="1499097902098" TEXT="Governance">
 <node CREATED="1499097902309" ID="ID_1630277212" MODIFIED="1499097906262" TEXT="LDC">
 <node CREATED="1499097960216" ID="ID_795409183" MODIFIED="1499097972727" TEXT="another site will exist"/>
@@ -16,11 +18,11 @@
 <node CREATED="1499098024565" ID="ID_1443633494" MODIFIED="1499098030199" TEXT="CONTENTdm"/>
 </node>
 </node>
-<node CREATED="1499096121358" ID="ID_738872661" MODIFIED="1499096121358" TEXT="What is Islandora?">
+<node CREATED="1499096121358" FOLDED="true" ID="ID_738872661" MODIFIED="1499796345318" TEXT="What is Islandora?">
 <node CREATED="1499096121358" ID="ID_684587960" MODIFIED="1499096121358" TEXT="How is it different from CONTENTdm?"/>
 <node CREATED="1499096121359" ID="ID_283602115" MODIFIED="1499096121359" TEXT="Shared installation, shared site, shared Solr Index, shared Fedora Commons repository"/>
 </node>
-<node CREATED="1499096121360" ID="ID_1383797755" MODIFIED="1499097794787" TEXT="Key concepts:">
+<node CREATED="1499096121360" FOLDED="true" ID="ID_1383797755" MODIFIED="1499796346131" TEXT="Key concepts:">
 <node CREATED="1499096121361" ID="ID_1487376395" MODIFIED="1499096121361" TEXT="Collections"/>
 <node CREATED="1499096121361" ID="ID_733586485" MODIFIED="1499096121361" TEXT="Objects (basically, metadata + content file(s))">
 <node CREATED="1499096121362" ID="ID_1922732044" MODIFIED="1499096121362" TEXT="Datastreams">
@@ -63,7 +65,7 @@
 <node CREATED="1499096121374" ID="ID_970459046" MODIFIED="1499096121374" TEXT="More about specific responsibilities later?"/>
 </node>
 </node>
-<node CREATED="1499098602528" ID="ID_1588744997" MODIFIED="1499098605188" TEXT="Content">
+<node CREATED="1499098602528" FOLDED="true" ID="ID_1588744997" MODIFIED="1499796349700" TEXT="Content">
 <node CREATED="1499098633198" ID="ID_376544343" MODIFIED="1499098651609" TEXT="Collection development policies">
 <node CREATED="1499098651869" ID="ID_1373524646" MODIFIED="1499098657273" TEXT="TBD later"/>
 </node>
@@ -80,7 +82,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1499096121375" ID="ID_189472786" MODIFIED="1499098582444" TEXT="Architecture">
+<node CREATED="1499096121375" ID="ID_189472786" MODIFIED="1499803662473" TEXT="Architecture">
 <node CREATED="1499096121378" ID="ID_706854960" MODIFIED="1499098754928" TEXT="Model of Home -- Institution -- Collection -- Object with parallel structure at each level">
 <node CREATED="1499096121375" ID="ID_1768572205" MODIFIED="1499096121375" TEXT="Institutional Home Pages">
 <node CREATED="1499096121375" ID="ID_1469361984" MODIFIED="1499096121375" TEXT="Branding through theme / CSS"/>
@@ -129,7 +131,7 @@
 <node CREATED="1499096121381" ID="ID_267686518" MODIFIED="1499096121381" TEXT="Exercise - search"/>
 </node>
 </node>
-<node CREATED="1499096121382" ID="ID_1383787619" MODIFIED="1499112148143" POSITION="right" TEXT="Part 2 - Collection Administration">
+<node CREATED="1499096121382" ID="ID_1383787619" MODIFIED="1499777581239" POSITION="right" TEXT="Part 2 - Collection Administration">
 <node CREATED="1499096121382" ID="ID_246470951" MODIFIED="1499096121382" TEXT="Creating a new collection">
 <node CREATED="1499096121383" ID="ID_703782170" MODIFIED="1499096121383" TEXT="Namespace helper"/>
 <node CREATED="1499096121383" ID="ID_1031373781" MODIFIED="1499096121383" TEXT="Collection metadata"/>
@@ -235,7 +237,7 @@
 <node CREATED="1499096121460" ID="ID_1288770780" MODIFIED="1499096121460" TEXT="Status = not yet approved by LDC board; will announce when that happens"/>
 </node>
 </node>
-<node CREATED="1499096121462" ID="ID_17941307" MODIFIED="1499111837663" POSITION="right" TEXT="Part 3 - Management &amp; Policies">
+<node CREATED="1499096121462" ID="ID_17941307" MODIFIED="1499777607270" POSITION="right" TEXT="Part 3 - Management &amp; Policies">
 <node CREATED="1499096121462" ID="ID_1625557164" MODIFIED="1499096121462" TEXT="Collection Administrator responsibilities">
 <node CREATED="1499096121463" ID="ID_252816265" MODIFIED="1499096121463" TEXT="What the different roles can do"/>
 <node CREATED="1499096121463" ID="ID_1216105604" MODIFIED="1499096121463" TEXT="This is still in ongoing development &amp; testing, so if there is a problem with privileges, we can adjust settings"/>
@@ -260,7 +262,7 @@
 <node CREATED="1499096121468" ID="ID_820885975" MODIFIED="1499096121468" TEXT="Planned rollout of increasing responsibilities?"/>
 </node>
 </node>
-<node CREATED="1499096121469" FOLDED="true" ID="ID_1944807045" MODIFIED="1499112481593" POSITION="right" TEXT="Part 4 - Help &amp; Support">
+<node CREATED="1499096121469" ID="ID_1944807045" MODIFIED="1499777610659" POSITION="right" TEXT="Part 4 - Help &amp; Support">
 <node CREATED="1499096121470" ID="ID_205179472" MODIFIED="1499096121470" TEXT="Where to find documentation"/>
 <node CREATED="1499096121470" ID="ID_1724942677" MODIFIED="1499096121470" TEXT="New ticketing system (in development)">
 <node CREATED="1499096121471" ID="ID_152603257" MODIFIED="1499096121471" TEXT="How to join the issue reporting board, if interested?"/>
@@ -272,7 +274,7 @@
 <node CREATED="1499096121472" ID="ID_38320922" MODIFIED="1499096121472" TEXT="Open Q&amp;A"/>
 <node CREATED="1499096121473" ID="ID_596475532" MODIFIED="1499096121473" TEXT="Open request for specific additional training"/>
 </node>
-<node CREATED="1499096121473" ID="ID_75087207" MODIFIED="1499112696143" POSITION="left" TEXT="We need to prep">
+<node CREATED="1499096121473" FOLDED="true" ID="ID_75087207" MODIFIED="1499257687812" POSITION="left" TEXT="We need to prep">
 <node CREATED="1499096121474" ID="ID_1978750421" MODIFIED="1499096121474" TEXT="Make sure everyone signed up for the training has an account in the training instance with same password - &#x201c;test&#x201d; or the training date would work"/>
 <node CREATED="1499096121477" ID="ID_1444750190" MODIFIED="1499096121477" TEXT="Make a &#x2018;generic&#x2019; user for the training instance, in case anyone has trouble with their accounts"/>
 <node CREATED="1499096121478" ID="ID_1092586296" MODIFIED="1499096121478" TEXT="Things that need to be included in the training instance:">
@@ -298,7 +300,7 @@
 <node CREATED="1499096121529" ID="ID_24522618" MODIFIED="1499096121529" TEXT="Write &amp; test all exercises"/>
 <node CREATED="1499112696557" ID="ID_175370175" MODIFIED="1499112750312" TEXT="Select collections for test instance that showcase different Content Models"/>
 </node>
-<node CREATED="1499096121529" ID="ID_1862298917" MODIFIED="1499112640525" POSITION="left" TEXT="&#x201c;We&#x201d; need to finish">
+<node CREATED="1499096121529" FOLDED="true" ID="ID_1862298917" MODIFIED="1499257687092" POSITION="left" TEXT="&#x201c;We&#x201d; need to finish">
 <node CREATED="1499096121530" ID="ID_1962797553" MODIFIED="1499096121530" TEXT="Theme 2.0? - If this will be present at training time, that affects screenshots&#x2026;">
 <node CREATED="1499112649967" ID="ID_314075680" MODIFIED="1499112672552" TEXT="Make sure compound display is functional"/>
 </node>
